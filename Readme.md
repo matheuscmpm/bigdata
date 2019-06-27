@@ -9,9 +9,9 @@ Projeto montado para ser utilizado no curso de BigData realizado pelo Porto Digi
 
 ### Passos para levantar o ambiente
 * Clonar esse repositório dentro da sua pasta de usuário
-    * Linux: dentro de /home/<usuario>
-    * Windows: dentro de C:/Users/<usuario>
-    * Mac: dentro de /Users/<usuario>
+    * Linux: dentro de /home/\<usuario>
+    * Windows: dentro de C:/Users/\<usuario>
+    * Mac: dentro de /Users/\<usuario>
     * (pode ficar dentro de qualquer subdiretório, mas precisa estar dentro da pasta do usuário do computador)
 * Entrar no diretório clonado via terminal (bash, cmd)
     * É importante que o terminal usado tenha acesso aos comandos: docker e docker-compose
