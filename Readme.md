@@ -1,7 +1,7 @@
-#BigData
+# BigData
 Projeto montado para ser utilizado no curso de BigData realizado pelo Porto Digital
 
-###Pré-requisitos necessários para utilizar esse repositório
+### Pré-requisitos necessários para utilizar esse repositório
 * docker
 * docker-compose
 
