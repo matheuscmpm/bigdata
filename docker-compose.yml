@@ -1,0 +1,16 @@
+version: "3"
+services:
+  jupyter:
+    image: matheuscmpm/bigdata:latest
+    volumes:
+      - ./src:/home/jovyan/volume
+    ports:
+      - "8888:8888"
+      - "4040:4040"
+      - "4041:4041"
+      - "4042:4042"
+      - "4043:4043"
+      - "4044:4044"
+      - "4045:4045"
+    environment:
+      JUPYTER_ENABLE_LAB: 'yes'
