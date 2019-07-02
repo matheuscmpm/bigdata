@@ -4,6 +4,7 @@ services:
     image: matheuscmpm/bigdata:latest
     volumes:
       - ./src:/home/jovyan/volume
+      - ./.jupyter:/home/jovyan/.jupyter
     ports:
       - "8888:8888"
       - "4040:4040"
