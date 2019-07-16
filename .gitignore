@@ -1,3 +1,11 @@
-/src/*
+/src/testes/*
+/src/landed/*
+/src/raw/*
+/src/modeled/*
+/src/self-serve/*
+!/src/landed/empty
+!/src/raw/empty
+!/src/modeled/empty
+!/src/self-serve/empty
 /.idea/*
 /.jupyter/*
